@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+}
+
+
+body {
+    background-color: coral;
+    padding: 100px;
+}
+
+#pokemon-to-display {
+    border: 5px solid red;
+
+    width: 1fr;
+    height: 250px;
+
+    padding: 100px;
+}
